@@ -29,3 +29,15 @@
 192.168.4.100	proxmox000.kws.booyah.internal
 192.168.4.4	boss.kws.booyah.internal
 192.168.4.130	boss2.kws.booyah.internal
+192.168.5.100	mk8s-base-master00.kws.booyah.internal
+192.168.5.110	mk8s-base-worker00.kws.booyah.internal
+192.168.5.111	mk8s-base-worker01.kws.booyah.internal
+192.168.5.101	mk8s-base-master01.kws.booyah.internal
+192.168.5.120	mk8s-base-worker10.kws.booyah.internal
+192.168.5.121	mk8s-base-worker11.kws.booyah.internal
+192.168.5.200	mk8s-app-master00.kws.booyah.internal
+192.168.5.210	mk8s-app-worker00.kws.booyah.internal
+192.168.5.211	mk8s-app-worker01.kws.booyah.internal
+192.168.5.201	mk8s-app-master01.kws.booyah.internal
+192.168.5.220	mk8s-app-worker10.kws.booyah.internal
+192.168.5.221	mk8s-app-worker11.kws.booyah.internal
