@@ -41,3 +41,4 @@
 192.168.5.201	mk8s-app-master01.kws.booyah.internal
 192.168.5.220	mk8s-app-worker10.kws.booyah.internal
 192.168.5.221	mk8s-app-worker11.kws.booyah.internal
+10.0.50.7	dnsobserve.tyd.booyah.internal
