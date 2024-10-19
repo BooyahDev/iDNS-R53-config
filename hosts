@@ -43,3 +43,4 @@
 192.168.5.221	mk8s-app-worker11.kws.booyah.internal
 10.0.50.7	dnsobserve.tyd.booyah.internal
 192.168.5.4	dnsupdater.kws.booyah.internal
+192.168.6.1	kong-kws.booyah.dev
