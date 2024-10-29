@@ -28,7 +28,7 @@
 10.0.15.1	idns-web.tyd.booyah.internal
 192.168.4.101	proxmox001.kws.booyah.internal
 192.168.4.100	proxmox000.kws.booyah.internal
-192.168.4.4	boss.kws.booyah.internal
+192.168.5.5	boss.kws.booyah.internal
 192.168.4.130	boss2.kws.booyah.internal
 192.168.5.100	mk8s-base-master00.kws.booyah.internal
 192.168.5.110	mk8s-base-worker00.kws.booyah.internal
