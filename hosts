@@ -4,7 +4,7 @@
 10.0.100.2	proxmox001.tyd.booyah.internal
 10.0.100.3	proxmox002.tyd.booyah.internal
 10.0.100.4	proxmox003.tyd.booyah.internal
-10.0.100.100	proxmox100.tyd.booyah.internal
+10.0.0.5	proxmox100.tyd.booyah.internal
 10.0.100.101	proxmox101.tyd.booyah.internal
 10.0.255.1	bgp.tyd.booyah.internal
 10.0.255.2	switch234.tyd.booyah.internal
